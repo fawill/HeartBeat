@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Utility_SceneManager">
+			<method name="LoadNextScene"/>
+			<method name="LoadNextScene"/>
+			<method name="LoadNextScene"/>
+		</type>
+	</assembly>
+</linker>
